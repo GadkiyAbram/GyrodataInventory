@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insert Data", "Insert Data\Insert Data.csproj", "{81E91241-27EF-4DA7-B9CE-792F42733F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Gyrodata Sakhalin Inv Rev 1.1|Any CPU = Gyrodata Sakhalin Inv Rev 1.1|Any CPU
+		Gyrodata Sakhalin Inv Rev 1.1|Default = Gyrodata Sakhalin Inv Rev 1.1|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Debug|Default.Build.0 = Debug|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Gyrodata Sakhalin Inv Rev 1.1|Any CPU.ActiveCfg = Gyrodata Sakhalin Inv Rev 1.1|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Gyrodata Sakhalin Inv Rev 1.1|Any CPU.Build.0 = Gyrodata Sakhalin Inv Rev 1.1|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Gyrodata Sakhalin Inv Rev 1.1|Default.ActiveCfg = Gyrodata Sakhalin Inv Rev 1.1|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Gyrodata Sakhalin Inv Rev 1.1|Default.Build.0 = Gyrodata Sakhalin Inv Rev 1.1|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Release|Default.ActiveCfg = Release|Any CPU
+		{81E91241-27EF-4DA7-B9CE-792F42733F1D}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Gyrodata Sakhalin Inv Rev 1.1|Any CPU = Gyrodata Sakhalin Inv Rev 1.1|Any CPU
+		Gyrodata Sakhalin Inv Rev 1.1|Default = Gyrodata Sakhalin Inv Rev 1.1|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Gyrodata Sakhalin Inv Rev 1.1|Any CPU = Gyrodata Sakhalin Inv Rev 1.1|Any CPU
+		Gyrodata Sakhalin Inv Rev 1.1|Default = Gyrodata Sakhalin Inv Rev 1.1|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Gyrodata Sakhalin Inv Rev 1.1|Any CPU = Gyrodata Sakhalin Inv Rev 1.1|Any CPU
+		Gyrodata Sakhalin Inv Rev 1.1|Default = Gyrodata Sakhalin Inv Rev 1.1|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal

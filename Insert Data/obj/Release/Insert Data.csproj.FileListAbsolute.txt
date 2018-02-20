@@ -1,0 +1,109 @@
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\bin\Release\Insert Data.exe.config
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\bin\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\bin\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\bin\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\obj\Release\Insert Data.csproj.ResolveComReference.cache
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\obj\Release\Insert_Data.Form1.resources
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\obj\Release\Insert_Data.Properties.Resources.resources
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\obj\Release\Insert_Data.Form1.ru.resources
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\obj\Release\Insert Data.csproj.GenerateResource.Cache
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\obj\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\obj\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\documents\visual studio 2015\Projects\Insert Data\Insert Data\obj\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Release\Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Release\Excel.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Release\Insert_Data.ShowBatts.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Release\Insert Data.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\Insert Data.exe.config
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Release\Insert Data.csproj.ResolveComReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\System.Data.SQLite.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\Excel.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Release\System.Data.SQLite.xml
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Release\Insert_Data.Form1.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Release\Insert_Data.Properties.Resources.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Release\Insert_Data.RemvUpdt.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Release\Insert_Data.Form1.ru.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Release\Insert Data.csproj.GenerateResource.Cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Release\Insert Data.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\Insert Data.exe.config
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\Insert Data.csproj.ResolveComReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\System.Data.SQLite.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\Excel.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\bin\Release\System.Data.SQLite.xml
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\Insert Data.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\Insert_Data.Form1.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\Insert_Data.Properties.Resources.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\Insert_Data.RemvUpdt.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\Insert_Data.Form1.ru.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\Insert Data.csproj.GenerateResource.Cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite\Insert Data\obj\Release\Insert_Data.ToolCircHrs.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\Insert Data.exe.config
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\Insert Data.csproj.ResolveComReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\System.Data.SQLite.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\Excel.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\bin\Release\System.Data.SQLite.xml
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\Insert_Data.Form1.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\Insert_Data.Properties.Resources.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\Insert_Data.RemvUpdt.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\Insert_Data.ToolCircHrs.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\Insert_Data.Form1.ru.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\Insert Data.csproj.GenerateResource.Cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental SQLite-classes\Insert Data\obj\Release\Insert Data.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\Insert Data.exe.config
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\Insert Data.csproj.ResolveComReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\System.Data.SQLite.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\stdole.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\Excel.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\bin\Release\System.Data.SQLite.xml
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\Insert Data.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\Insert_Data.Form1.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\Insert_Data.Properties.Resources.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\Insert_Data.RemvUpdt.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\Insert_Data.ToolCircHrs.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\Insert_Data.Form1.ru.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\Insert Data.csproj.GenerateResource.Cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Gyrodata Insert Data\Gyrodata Inventory\Insert Data\obj\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\Gyrodata_Inventory\Insert Data\bin\Release\Insert Data.exe.config
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\Gyrodata_Inventory\Insert Data\obj\Release\Insert Data.csproj.ResolveComReference.cache
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\Gyrodata_Inventory\Insert Data\obj\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\Gyrodata_Inventory\Insert Data\obj\Release\Insert Data.pdb

@@ -1,0 +1,38 @@
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.exe.config
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\ICSharpCode.SharpZipLib.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Excel.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.csproj.ResolveComReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert_Data.Form1.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert_Data.Properties.Resources.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert_Data.RemvUpdt.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert_Data.Form1.ru.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.csproj.GenerateResource.Cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.csproj.ResolveComReference.cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert_Data.Form1.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert_Data.Properties.Resources.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert_Data.RemvUpdt.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert_Data.Form1.ru.resources
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.csproj.GenerateResource.Cache
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.exe.config
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\ICSharpCode.SharpZipLib.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\Excel.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\obj\Gyrodata Sakhalin Inv Rev 1.1\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\System.Data.SQLite.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\System.Data.SQLite.Linq.dll
+C:\Users\Aleksandr.Abramovski\Documents\Visual Studio 2015\Projects\Insert Data Experimental\Insert Data\bin\Gyrodata Sakhalin Inv Rev 1.1\System.Data.SQLite.xml
