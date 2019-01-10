@@ -107,3 +107,27 @@ C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\Gyrodata_
 C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\Gyrodata_Inventory\Insert Data\obj\Release\Insert Data.csproj.ResolveComReference.cache
 C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\Gyrodata_Inventory\Insert Data\obj\Release\Insert Data.exe
 C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\Gyrodata_Inventory\Insert Data\obj\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\Insert Data.exe.config
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\Excel.dll
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\System.Data.SQLite.dll
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\Excel.pdb
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\System.Data.SQLite.xml
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert Data.csproj.ResolveComReference.cache
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert_Data.Form1.resources
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert_Data.Properties.Resources.resources
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert_Data.RemvUpdt.resources
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert_Data.ToolCircHrs.resources
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert_Data.Form1.ru.resources
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert Data.csproj.GenerateResource.cache
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert Data.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\ru\Insert Data.resources.dll
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert Data.csproj.CopyComplete
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert Data.exe
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert Data.pdb
+C:\Users\Aleksandr.Abramovski\PROJECTS\C_PROJECTS\Gyrodata_Insert_Data\ACTUAL_VERSIONS\Gyrodata_Inventory-Classes\Insert Data\obj\Release\Insert Data.csprojAssemblyReference.cache

@@ -514,7 +514,7 @@
     <value>NoControl</value>
   </data>
   <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>-501, 3409</value>
+    <value>-535, 3507</value>
   </data>
   <data name="button5.Size" type="System.Drawing.Size, System.Drawing">
     <value>84, 24</value>
@@ -544,7 +544,7 @@
     <value>NoControl</value>
   </data>
   <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>-685, 3409</value>
+    <value>-719, 3507</value>
   </data>
   <data name="button4.Size" type="System.Drawing.Size, System.Drawing">
     <value>84, 24</value>
@@ -799,7 +799,7 @@
     <value>326, 10</value>
   </data>
   <data name="dataGridAllEquipment.Size" type="System.Drawing.Size, System.Drawing">
-    <value>534, 452</value>
+    <value>550, 550</value>
   </data>
   <data name="dataGridAllEquipment.TabIndex" type="System.Int32, mscorlib">
     <value>72</value>
@@ -2164,7 +2164,7 @@
     <value>252, 314</value>
   </data>
   <data name="dataGridToManifest.Size" type="System.Drawing.Size, System.Drawing">
-    <value>302, 3337</value>
+    <value>607, 3571</value>
   </data>
   <data name="dataGridToManifest.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -2281,7 +2281,7 @@
     <value>252, 7</value>
   </data>
   <data name="dataGridSearch.Size" type="System.Drawing.Size, System.Drawing">
-    <value>302, 301</value>
+    <value>607, 301</value>
   </data>
   <data name="dataGridSearch.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -3922,7 +3922,7 @@
     <value>266, 50</value>
   </data>
   <data name="dataGWDPM.Size" type="System.Drawing.Size, System.Drawing">
-    <value>628, 312</value>
+    <value>594, 442</value>
   </data>
   <data name="dataGWDPM.TabIndex" type="System.Int32, mscorlib">
     <value>66</value>
@@ -5171,7 +5171,7 @@
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
         ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAABY
-        DQAAAk1TRnQBSQFMAgEBBgEAAQgBAgEIAQIBEAEAARABAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
+        DQAAAk1TRnQBSQFMAgEBBgEAARgBAgEYAQIBEAEAARABAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
         AwABQAMAASADAAEBAQABCAYAAQgYAAGAAgABgAMAAoABAAGAAwABgAEAAYABAAKAAgADwAEAAcAB3AHA
         AQAB8AHKAaYBAAEzBQABMwEAATMBAAEzAQACMwIAAxYBAAMcAQADIgEAAykBAANVAQADTQEAA0IBAAM5
         AQABgAF8Af8BAAJQAf8BAAGTAQAB1gEAAf8B7AHMAQABxgHWAe8BAAHWAucBAAGQAakBrQIAAf8BMwMA

@@ -12,19 +12,14 @@ using System.Text.RegularExpressions;
 using System.Data.SQLite;
 using System.IO;
 
-
-
 namespace Insert_Data
 {
-
     public partial class Form1 : Form
     {
-       
         public Form1()
         {
             InitializeComponent();
         }
-    
         ConnectionClassAllEquipment sqlConnect = new ConnectionClassAllEquipment();
         ComboboxLoading circHoursTotal = new ComboboxLoading();
         string date = DateTime.Now.ToString("dd-MM-yyyy");
